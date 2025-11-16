@@ -33,9 +33,6 @@ DocFlex/
 ## 📸 Screenshots
 <img width="1006" height="682" alt="Annotation 2025-11-16 160252" src="https://github.com/user-attachments/assets/2b6e1c89-a82b-4467-a224-7f28f632042c" />
 <img width="1001" height="679" alt="Annotation 2025-11-16 160358" src="https://github.com/user-attachments/assets/61cbefec-1889-4202-aa39-18bdd666769d" />
-<img width="1005" height="676" alt="Annotation 2025-11-16 160343" src="https://github.com/user-attachments/assets/1b25ecda-bb3f-49bf-8035-14d9d60ce0a7" />
-<img width="1009" height="679" alt="Annotation 2025-11-16 160325" src="https://github.com/user-attachments/assets/9e29a5f4-ef92-4747-ac88-abd87ff1a6c9" />
-
 
 ---
 
