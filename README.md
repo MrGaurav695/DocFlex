@@ -24,9 +24,9 @@ This is the **frontend-only version**, and backend integration will be added in 
 ## 📁 Project Structure
 
 DocFlex/
-├── index.html
-├── style.css
-└── script.js
+--index.html
+--style.css
+--script.js
 
 ---
 
@@ -53,5 +53,5 @@ Feel free to fork the repo and submit pull requests.
 ---
 
 ## ❤️ Author
-**Gaurav Shirsath**  
+**Gaurav Rajesh Shirsath**  
 Frontend Developer | Computer Engineering Student 
